@@ -6,7 +6,8 @@ public class DDD {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
-Scanner ler = new Scanner(System.in);
+		
+		Scanner ler = new Scanner(System.in);
 		
 		int codigo = ler.nextInt();
 		switch(codigo) {
